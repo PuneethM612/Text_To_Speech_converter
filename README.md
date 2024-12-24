@@ -40,17 +40,12 @@ A lightweight and interactive Text-to-Speech Converter built using HTML, CSS, an
 
 That's it! You can now use the Text-to-Speech Converter.
 
-## Preview
 
-![Screenshot of the Text-to-Speech Converter](assets/preview.png)
 
 ## Contributions
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements or suggestions.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
